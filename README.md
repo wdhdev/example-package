@@ -1,2 +1,2 @@
-# example-package
+# Example Package
 An example npm package.
